@@ -1,0 +1,28 @@
+running: cd "/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build" && CMAKE_PREFIX_PATH="" LC_ALL="C" "cmake" "/home/aswin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.37.0/SDL" "-B" "/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build" "-DCMAKE_CONFIGURATION_TYPES=Release" "-DSDL_SHARED=ON" "-DSDL_STATIC=OFF" "-DCMAKE_INSTALL_PREFIX=/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out" "-DCMAKE_C_FLAGS= -fcommon -ffunction-sections -fdata-sections -fPIC -w -std=gnu17" "-DCMAKE_C_COMPILER=/usr/bin/cc" "-DCMAKE_CXX_FLAGS= -ffunction-sections -fdata-sections -fPIC -w" "-DCMAKE_CXX_COMPILER=/usr/bin/c++" "-DCMAKE_ASM_FLAGS= -ffunction-sections -fdata-sections -fPIC -w -std=gnu17" "-DCMAKE_ASM_COMPILER=/usr/bin/cc" "-DCMAKE_BUILD_TYPE=Release"
+CMake Deprecation Warning at CMakeLists.txt:5 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+CMake Deprecation Warning at CMakeLists.txt:3147 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_ASM_COMPILER
+    CMAKE_ASM_FLAGS
+    CMAKE_CONFIGURATION_TYPES
+
+
+running: cd "/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build" && LC_ALL="C" MAKEFLAGS="-j --jobserver-fds=3,5 --jobserver-auth=3,5" "cmake" "--build" "/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build" "--target" "install" "--config" "Release"

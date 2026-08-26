@@ -1,0 +1,11 @@
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/sdl_headers_copy.dir
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/SDL2main.dir
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/SDL2.dir
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/SDL2_test.dir
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/uninstall.dir
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/edit_cache.dir
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/rebuild_cache.dir
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/list_install_components.dir
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/install.dir
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/install/local.dir
+/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/CMakeFiles/install/strip.dir
