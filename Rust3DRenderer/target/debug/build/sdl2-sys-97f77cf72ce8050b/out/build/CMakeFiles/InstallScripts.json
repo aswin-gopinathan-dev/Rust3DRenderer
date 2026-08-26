@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/aswin/Projects/Rust3DRenderer/Rust3DRenderer/target/debug/build/sdl2-sys-97f77cf72ce8050b/out/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
